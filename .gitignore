@@ -1,4 +1,9 @@
-/TimeIntervals/nbproject/private/
 *.xml
 *.mf
 *.properties
+.gitignore
+*.bak
+nbproject/
+/TimeIntervals/nbproject/private/
+/TimeIntervals/build/
+/TimeIntervals/dist/
